@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Lebron James Flappy Birds</string>
+    <string name="original_character_name">Lebron\nJames</string>
+    <string name="unlockable_character_1_name">Dwayne\nWade</string>
+    <string name="unlockable_character_2_name">Kobe\nBryant</string>
+    <string name="unlockable_character_3_name">Michael\nJordan</string>
+
+</resources>
